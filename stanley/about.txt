@@ -2,4 +2,4 @@ Theme name: Stanley
 Description: Stanley is a really simple theme for those wanting to showcase their work with a cute & clean style.
 Author name: Marcel Gurski
 Author site: http://wazeo.de
-License: http://wtfpl.wazeo.de
+License: http://creativecommons.org/licenses/by/3.0/
